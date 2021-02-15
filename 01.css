@@ -1,0 +1,71 @@
+#button {
+  padding: 0.5%;
+  margin: 18%;
+  margin-top: 10%;
+  margin-left: 22%;
+  text-align: center;
+  border-radius: 30px;
+  zoom: normal;
+  background-color: white;
+}
+body {
+  background-color: white;
+}
+#h1 {
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 5%;
+  text-shadow: 2px 2px 5px red;
+}
+#top {
+  display: flex;
+  margin-top: -10%;
+  padding-top: -20%;
+  margin-left: -8%;
+}
+#top:hover {
+  font-weight: bold;
+}
+#button2 {
+  margin-top: 0%;
+  margin-left: 87%;
+}
+#button1:hover,
+#button2:hover {
+  background-color: #8ecae6;
+}
+#searchBar {
+  margin-top: -10.5%;
+  background-color: white;
+}
+#searchbar {
+  margin-top: -10%;
+  margin-left: 4%;
+  background-color: rgb(255, 255, 255);
+}
+#google_img {
+  margin-left: 43%;
+}
+#button4,
+#button5 {
+  margin-left: 10%;
+  margin-top: 3%;
+  padding: -10%;
+}
+.button_submit {
+  margin-top: -17%;
+  margin-left: 35%;
+}
+.navbar {
+  margin-left: 22%;
+  font-size: medium;
+
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+}
+.container {
+  margin-top: 10%;
+}
+#img {
+  margin-left: -4%;
+  color: blue;
+}
